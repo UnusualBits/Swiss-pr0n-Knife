@@ -1,0 +1,7 @@
+The sole purpose of this extension is to refine the display and sorting arrangement of content on specific adult entertainment sites.
+
+Required to access the current tab to determine and run the content specific methods of the extension. All extension functionality revolves around rearranging or modifying HTML DOM elements or their respective CSS properties.
+
+Required to determine whether the extension has any use on the currently active page on the user's side. This extension is specialized on a few specific public websites and their content, therefore it makes sense to only activate it in specific cases.
+
+Required to determine whether any of the extension functionalities are applicable to the current URL pattern.
